@@ -11,6 +11,7 @@ Using tools like SQL, Python, Power BI, Excel, Tableau and Databricks, I build a
 
 I pride myself on being analytical, detail-oriented, solution-focused, and a collaborative team player. These qualities help me bridge the gap between data and decision-making, ensuring value is delivered at every stage of the data pipeline.
 
+
 🛠️ Technical Skills
 
 Languages & Tools: SQL (MySQL, PostgreSQL), Python (Pandas, NumPy), Power BI, Tableau, Excel (Macros, Power Query)
@@ -24,6 +25,7 @@ Visualization & Storytelling: Power BI Dashboards, DAX, Pivot Tables, Reports
 Financial Reporting: Variance analysis, payroll audits, loan processing automation
 
 Other Tools: Microsoft Office, Google Suite, Jira, Slack, TeamViewer
+
 
 🔭 Core Competencies
 
@@ -43,6 +45,7 @@ Other Tools: Microsoft Office, Google Suite, Jira, Slack, TeamViewer
 
 ⚙️ Scalable ETL Workflows & Data Cleaning
 
+
 🌐 Let’s Connect
 
 GitHub: github.com/OsarohEkhoragbon
@@ -50,6 +53,7 @@ GitHub: github.com/OsarohEkhoragbon
 Email: osarohekhoragbon@gmail.com
 
 LinkedIn: linkedin.com/in/osarohekhoragbon
+
 
 💼 Portfolio
 
