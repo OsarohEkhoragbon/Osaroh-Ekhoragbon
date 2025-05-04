@@ -48,11 +48,11 @@ Other Tools: Microsoft Office, Google Suite, Jira, Slack, TeamViewer
 
 ## 🌐 Let’s Connect
 
-GitHub: https://github.com/OsarohEkhoragbon
+[GitHub](https://github.com/OsarohEkhoragbon)
 
 Email: osarohekhoragbon@gmail.com
 
-LinkedIn: (https://linkedin.com/in/osarohekhoragbon)
+[LinkedIn](https://linkedin.com/in/osarohekhoragbon)
 
 
 💼 Portfolio
