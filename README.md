@@ -5,7 +5,7 @@
 
 
 👨‍💼 About Me
-I’m a Data & Financial Analyst with over 8 years of experience across sectors like financial services such as central Bank of Nigeria, tech such as Amdari and healthcare turning complex data into powerful insights that inform decision-making and improve business outcomes. I specialize in data transformation, financial reporting, and BI dashboard development across sectors like financial services, tech and healthcare.
+I’m a Data & Financial Analyst with over 8 years of experience across sectors like financial services such as central Bank of Nigeria, tech such as Amdari and healthcare, turning complex data into powerful insights that inform decision-making and improve business outcomes. I specialize in data transformation, financial reporting, and BI dashboard development across sectors like financial services, tech and healthcare.
 
 Using tools like SQL, Python, Power BI, Excel, Tableau and Databricks, I build automated workflows, monitor KPIs, and lead stakeholder reporting to support executive-level strategies. I’m passionate about data integrity, equitable access, and continuous improvement through scalable analytics.
 
