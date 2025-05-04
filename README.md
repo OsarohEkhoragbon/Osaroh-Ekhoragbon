@@ -1,5 +1,4 @@
 ## 👋 Hi there, I'm Osaroh Ekhoragbon.
-# Welcome to my portfolio, where I showcase my projects, achievements, and passion for data!
 
 📊 Data Analyst | Financial Analyst | Business Intelligence Professional
 🔗 [GitHub](https://github.com/OsarohEkhoragbon) • 📧 [Email](osarohekhoragbon@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/osaroh-ekhoragbon/)
@@ -8,9 +7,11 @@
 # 👨‍💼 About Me
 I’m a Data & Financial Analyst with over 8 years of experience across sectors like financial services such as central Bank of Nigeria, tech such as Amdari and healthcare, turning complex data into powerful insights that inform decision-making and improve business outcomes. I specialize in data transformation, financial reporting, and BI dashboard development across sectors like financial services, tech and healthcare.
 
-Using tools like SQL, Python, Power BI, Excel, Tableau and Databricks, I build automated workflows, monitor KPIs, process improvement and lead stakeholder reporting to support executive-level strategies. I’m passionate about data integrity, equitable access, and continuous improvement through scalable analytics.
+Using tools like SQL, Python, Power BI, Excel, and Tableau, I build automated workflows, monitor KPIs, process improvement and lead stakeholder reporting to support executive-level strategies. I’m passionate about data integrity, equitable access, and continuous improvement through scalable analytics.
 
 I pride myself on being analytical, detail-oriented, solution-focused, and a collaborative team player. These qualities help me bridge the gap between data and decision-making, ensuring value is delivered at every stage of the data pipeline.
+
+Welcome to my data portfolio, featuring projects that highlight my skills, insights, and passion for analytics.
 
 
 ## 🛠️ Technical Skills
