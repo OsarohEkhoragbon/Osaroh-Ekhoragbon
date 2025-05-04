@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Osaroh Ekhoragbon
 
 📊 Data Analyst | Financial Analyst | Business Intelligence Professional
-🔗 GitHub • 📧 Email • 💼 LinkedIn
+🔗 [GitHub](https://github.com/OsarohEkhoragbon) • 📧 [Email](osarohekhoragbon@gmail.com) • 💼 [LinkedIn](https://linkedin.com/in/osarohekhoragbon)
 
 
 # 👨‍💼 About Me
@@ -46,15 +46,7 @@ Other Tools: Microsoft Office, Google Suite, Jira, Slack, TeamViewer
 ⚙️ Scalable ETL Workflows & Data Cleaning
 
 
-## 🌐 Let’s Connect
-
-[GitHub](https://github.com/OsarohEkhoragbon)
-
-Email: osarohekhoragbon@gmail.com
-
-[LinkedIn](https://linkedin.com/in/osarohekhoragbon)
-
-
+## 🌐 Let’s Connect and look at my portfolio
 💼 Portfolio
 
 ⚠️ Disclaimer: All datasets, analyses, and dashboards featured here are for educational and demonstration purposes only. No proprietary or confidential data is included. These projects serve to highlight my technical capabilities and analytical thinking.
