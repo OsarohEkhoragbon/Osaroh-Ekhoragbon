@@ -1,4 +1,5 @@
-## 👋 Hi there, I'm Osaroh Ekhoragbon Welcome to my portfolio, where I showcase my projects, achievements, and passion for data!
+## 👋 Hi there, I'm Osaroh Ekhoragbon.
+# Welcome to my portfolio, where I showcase my projects, achievements, and passion for data!
 
 📊 Data Analyst | Financial Analyst | Business Intelligence Professional
 🔗 [GitHub](https://github.com/OsarohEkhoragbon) • 📧 [Email](osarohekhoragbon@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/osaroh-ekhoragbon/)
