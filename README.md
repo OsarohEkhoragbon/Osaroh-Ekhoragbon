@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Osaroh Ekhoragbon.
 
 📊 Data Analyst | Financial Analyst | Business Intelligence Professional
-🔗 [GitHub](https://github.com/OsarohEkhoragbon) • 📧 [Email](osarohekhoragbon@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/osaroh-ekhoragbon/)
+🔗 [GitHub](https://github.com/OsarohEkhoragbon) • 📧 [Email](Mailto:osarohekhoragbon@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/osaroh-ekhoragbon/)
 
 
 # 👨‍💼 About Me
