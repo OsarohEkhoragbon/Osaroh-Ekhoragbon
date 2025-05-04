@@ -1,10 +1,10 @@
-👋 Hi there, I'm Osaroh Ekhoragbon
+## 👋 Hi there, I'm Osaroh Ekhoragbon
 
 📊 Data Analyst | Financial Analyst | Business Intelligence Professional
 🔗 GitHub • 📧 Email • 💼 LinkedIn
 
 
-👨‍💼 About Me
+# 👨‍💼 About Me
 I’m a Data & Financial Analyst with over 8 years of experience across sectors like financial services such as central Bank of Nigeria, tech such as Amdari and healthcare, turning complex data into powerful insights that inform decision-making and improve business outcomes. I specialize in data transformation, financial reporting, and BI dashboard development across sectors like financial services, tech and healthcare.
 
 Using tools like SQL, Python, Power BI, Excel, Tableau and Databricks, I build automated workflows, monitor KPIs, process improvement and lead stakeholder reporting to support executive-level strategies. I’m passionate about data integrity, equitable access, and continuous improvement through scalable analytics.
@@ -12,7 +12,7 @@ Using tools like SQL, Python, Power BI, Excel, Tableau and Databricks, I build a
 I pride myself on being analytical, detail-oriented, solution-focused, and a collaborative team player. These qualities help me bridge the gap between data and decision-making, ensuring value is delivered at every stage of the data pipeline.
 
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 Languages & Tools: SQL (MySQL, PostgreSQL), Python (Pandas, NumPy), Power BI, Tableau, Excel (Macros, Power Query)
 
@@ -27,7 +27,7 @@ Financial Reporting: Variance analysis, payroll audits, loan processing automati
 Other Tools: Microsoft Office, Google Suite, Jira, Slack, TeamViewer
 
 
-🔭 Core Competencies
+## 🔭 Core Competencies
 
 📈 Data Analysis & Business Intelligence
 
@@ -46,7 +46,7 @@ Other Tools: Microsoft Office, Google Suite, Jira, Slack, TeamViewer
 ⚙️ Scalable ETL Workflows & Data Cleaning
 
 
-🌐 Let’s Connect
+## 🌐 Let’s Connect
 
 GitHub: github.com/OsarohEkhoragbon
 
