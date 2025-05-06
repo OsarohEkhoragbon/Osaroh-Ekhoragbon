@@ -31,21 +31,8 @@ Other Tools: Microsoft Office, Google Suite, Jira, Slack, TeamViewer
 
 ## 🔭 Core Competencies
 
-📈 Data Analysis & Business Intelligence
-
-📊 Predictive & Statistical Modeling
-
-💰 Financial Forecasting & Variance Analysis
-
-📋 Dashboard Creation & Reporting Automation
-
-🧩 Data Governance & Quality Control
-
-🚀 KPI Tracking & Performance Monitoring
-
-🤝 Stakeholder Engagement & Collaboration
-
-⚙️ Scalable ETL Workflows & Data Cleaning
+📈 Data Analysis & Business Intelligence 📊 Predictive & Statistical Modeling 💰 Financial Forecasting & Variance Analysis 📋 Dashboard Creation & Reporting Automation 🧩 Data Governance & Quality Control
+🚀 KPI Tracking & Performance Monitoring 🤝 Stakeholder Engagement & Collaboration ⚙️ Scalable ETL Workflows & Data Cleaning
 
 
 ## 🌐 Let’s Connect and look at my portfolio
