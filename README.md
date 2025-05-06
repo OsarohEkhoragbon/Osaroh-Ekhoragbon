@@ -28,6 +28,9 @@ Financial Reporting: Variance analysis, payroll audits, loan processing automati
 
 Other Tools: Microsoft Office, Google Suite, Jira, Slack, TeamViewer
 
+## 🤝 Soft Skills
+•Analytical Thinking •Attention to Detail •Problem-Solving •Communication •Collaboration •Time Management •Adaptability •Business Acumen •Critical Thinking •Integrity
+
 
 ## 🔭 Core Competencies
 
